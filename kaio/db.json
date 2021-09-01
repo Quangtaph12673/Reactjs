@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "name": "car",
+      "id": 1
+    },
+    {
+      "name": "CAMRY",
+      "id": 2
+    },
+    {
+      "name": "BMW",
+      "id": 3
+    },
+    {
+      "name": "LAMBORGHINI",
+      "id": 4
+    },
+    {
+      "name": "AUDI",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "AUDI CAR",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/myproject-4370c.appspot.com/o/images%2Fhero-bg.jpg?alt=media&token=f493bf1e-fd14-4dda-ab5f-b8af43a64cd9",
+      "introduce": "Audi car introduce",
+      "categoryId": "5",
+      "id": 6
+    },
+    {
+      "name": "CAMRY CAR",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/myproject-4370c.appspot.com/o/images%2Fcar-1.png?alt=media&token=0391f756-b312-49d1-b94d-b48d249dffb7",
+      "introduce": "Camry car introduce",
+      "categoryId": "2",
+      "id": 7
+    },
+    {
+      "name": "BMW CAR",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/myproject-4370c.appspot.com/o/images%2Fcar-4.png?alt=media&token=f82da3d2-0a18-474c-9ca8-a4d31516863b",
+      "introduce": "BMW car introduce",
+      "categoryId": "3",
+      "id": 8
+    },
+    {
+      "name": "LAMBORGHINI CAR ",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/myproject-4370c.appspot.com/o/images%2Fcar-3.png?alt=media&token=0451f8c4-29df-44ce-9c31-65577894f24f",
+      "introduce": "LAMBORGHINI car introduce",
+      "categoryId": "4",
+      "id": 9
+    }
+  ]
+}

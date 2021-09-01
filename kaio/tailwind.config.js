@@ -3,7 +3,7 @@ module.exports = {
     './public/index.html',
     './src/*.js',
     './src/**/*.js',
-    './src/**/**/*.js',
+    './src/**/**/*.js'
   ],
   mode:'jit',
   darkMode: false, // or 'media' or 'class'
